@@ -5,9 +5,11 @@ description: ¿Por qué aprender con la Librería de Satoshi?
 
 # Aprende en tu idioma
 
-APRENDIZAJE HOLÍSTICO
+## Aprendizaje holístico
 
 
+
+{% embed url="https://docs.google.com/presentation/d/1Ty-v_8kZQY_vBts6sTEF2LRxIKDrDFbn8kXHjxFJRLY/edit?usp=sharing" %}
 
 <img src="https://cdn.prod.website-files.com/6407fd8f51729d7e38524b49/640c0991ac6f563895160cd4_gym.png" alt="bitcoin-gym" data-size="original">**Aprendizaje 360** - Una mezcla de seminarios socráticos, clases y talleres para mejorar tus habilidades técnicas.![bitcoin-community](https://cdn.prod.website-files.com/6407fd8f51729d7e38524b49/640c090f09bfca309c5ec8b6_cryptobro.png)**Comunidad** - Profundiza tu conocimiento con mentorías mensuales y horas de asesoría privada.![bitcoin-woman](https://cdn.prod.website-files.com/6407fd8f51729d7e38524b49/640c091d4efe7c161f5f9bff_woman-in-crypto.png)InstructoresAprende de Bitcoiners con años de experiencia en la industria.
 
