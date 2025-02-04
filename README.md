@@ -1,8 +1,15 @@
 ---
 icon: hand-wave
+description: ¿Por qué aprender con la Librería de Satoshi?
 ---
 
-# test-libreria-web
+# Aprende en tu idioma
+
+APRENDIZAJE HOLÍSTICO
+
+
+
+![bitcoin-gym](https://cdn.prod.website-files.com/6407fd8f51729d7e38524b49/640c0991ac6f563895160cd4_gym.png)Aprendizaje 360Una mezcla de seminarios socráticos, clases y talleres para mejorar tus habilidades técnicas.![bitcoin-community](https://cdn.prod.website-files.com/6407fd8f51729d7e38524b49/640c090f09bfca309c5ec8b6_cryptobro.png)ComunidadProfundiza tu conocimiento con mentorías mensuales y horas de asesoría privada.![bitcoin-woman](https://cdn.prod.website-files.com/6407fd8f51729d7e38524b49/640c091d4efe7c161f5f9bff_woman-in-crypto.png)InstructoresAprende de Bitcoiners con años de experiencia en la industria.![bitcoin-job](https://cdn.prod.website-files.com/6407fd8f51729d7e38524b49/640c09b084373fa11168630f_business-deal.png)Búsqueda laboralAyudamos a nuestros estudiantes durante su proceso de búsqueda laboral en la industria.
 
 ```mermaid
 quadrantChart
