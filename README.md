@@ -4,7 +4,6 @@ icon: hand-wave
 
 # test-libreria-web
 
-````mermaid
 ```mermaid
 quadrantChart
     title Reach and engagement of campaigns
@@ -21,5 +20,4 @@ quadrantChart
     Campaign E: [0.40, 0.34]
     Campaign F: [0.35, 0.78]
 ```
-````
 
