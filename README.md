@@ -7,9 +7,9 @@ description: ¿Por qué aprender con la Librería de Satoshi?
 
 ## Aprendizaje holístico
 
+### Formación en Bitcoin
 
-
-{% embed url="https://docs.google.com/presentation/d/1baPpbv-hAj8Zh9NsSQjOdvwocN550AOGesDUmmXOVmM" %}
+La formación en Bitcoin proporciona a los participantes los conocimientos necesarios para comprender tanto los fundamentos técnicos de la criptomoneda como sus aplicaciones prácticas. Los cursos suelen incluir temas como la historia de Bitcoin, el funcionamiento de la blockchain, seguridad, y su impacto en la economía global. Además, esta formación fomenta la difícil tarea de mantenerse actualizado frente a las constantes innovaciones en el mundo de las criptomonedas. Con instructores experimentados y programas integrales, los estudiantes pueden adquirir habilidades que les beneficien tanto profesionalmente como en su vida cotidiana.
 
 <img src="https://cdn.prod.website-files.com/6407fd8f51729d7e38524b49/640c0991ac6f563895160cd4_gym.png" alt="bitcoin-gym" data-size="original">**Aprendizaje 360** - Una mezcla de seminarios socráticos, clases y talleres para mejorar tus habilidades técnicas.![bitcoin-community](https://cdn.prod.website-files.com/6407fd8f51729d7e38524b49/640c090f09bfca309c5ec8b6_cryptobro.png)**Comunidad** - Profundiza tu conocimiento con mentorías mensuales y horas de asesoría privada.![bitcoin-woman](https://cdn.prod.website-files.com/6407fd8f51729d7e38524b49/640c091d4efe7c161f5f9bff_woman-in-crypto.png)InstructoresAprende de Bitcoiners con años de experiencia en la industria.
 
