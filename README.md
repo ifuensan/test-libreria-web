@@ -9,9 +9,11 @@ description: ¿Por qué aprender con la Librería de Satoshi?
 
 
 
-{% embed url="https://docs.google.com/presentation/d/1Ty-v_8kZQY_vBts6sTEF2LRxIKDrDFbn8kXHjxFJRLY/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/presentation/d/1baPpbv-hAj8Zh9NsSQjOdvwocN550AOGesDUmmXOVmM" %}
 
 <img src="https://cdn.prod.website-files.com/6407fd8f51729d7e38524b49/640c0991ac6f563895160cd4_gym.png" alt="bitcoin-gym" data-size="original">**Aprendizaje 360** - Una mezcla de seminarios socráticos, clases y talleres para mejorar tus habilidades técnicas.![bitcoin-community](https://cdn.prod.website-files.com/6407fd8f51729d7e38524b49/640c090f09bfca309c5ec8b6_cryptobro.png)**Comunidad** - Profundiza tu conocimiento con mentorías mensuales y horas de asesoría privada.![bitcoin-woman](https://cdn.prod.website-files.com/6407fd8f51729d7e38524b49/640c091d4efe7c161f5f9bff_woman-in-crypto.png)InstructoresAprende de Bitcoiners con años de experiencia en la industria.
+
+{% embed url="https://docs.google.com/presentation/d/e/2PACX-1vRprw68rqqw9J0rJq5q1cWjC6SJKOeL4uJ-srCBu0cjy7uMapP_Um9di8mr9JwfAAVOGwR7h_6SwjAC/pub?delayms=3000&loop=false&start=false" %}
 
 ![bitcoin-job](https://cdn.prod.website-files.com/6407fd8f51729d7e38524b49/640c09b084373fa11168630f_business-deal.png)Búsqueda laboral- Ayudamos a nuestros estudiantes durante su proceso de búsqueda laboral en la industria.
 
