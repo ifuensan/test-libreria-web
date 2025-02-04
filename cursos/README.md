@@ -1,4 +1,4 @@
-# Librería de Satoshi
+# Cursos
 
 [![](https://cdn.prod.website-files.com/6407fd8f51729d7c7c524b5f/640ccb91d086fd039dbafcb6_MASTERING%20BITCOIN%20\(1\).png)](<../.gitbook/assets/mastering bitcoin>)
 
