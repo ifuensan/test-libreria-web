@@ -1,3 +1,7 @@
+---
+icon: door-open
+---
+
 # Mastering Bitcoin Welcome Page
 
 #### Bienvenida al curso de Mastering Bitcoin

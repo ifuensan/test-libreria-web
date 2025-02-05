@@ -1,3 +1,7 @@
+---
+icon: bitcoin-sign
+---
+
 # Bitcoin Bootcamp
 
 ## [MATERIALES DEL CURSO](https://www.libreriadesatoshi.com/private-mb/mastering-bitcoin-welcome-page)

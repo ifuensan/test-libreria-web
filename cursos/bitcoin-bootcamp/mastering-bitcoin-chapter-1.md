@@ -1,3 +1,7 @@
+---
+icon: '1'
+---
+
 # Mastering Bitcoin Chapter 1
 
 #### Capítulos 1 y 2: _“Introduction” & “How Bitcoin Works”_

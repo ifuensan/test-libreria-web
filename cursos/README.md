@@ -1,3 +1,10 @@
+---
+icon: graduation-cap
+cover: >-
+  https://images.unsplash.com/photo-1606137744786-2c12820cb2dd?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxzdWl6YXxlbnwwfHx8fDE3Mzg3MTM4NDl8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # Cursos
 
 [![](https://cdn.prod.website-files.com/6407fd8f51729d7c7c524b5f/640ccb91d086fd039dbafcb6_MASTERING%20BITCOIN%20\(1\).png)](<../.gitbook/assets/mastering bitcoin>)
