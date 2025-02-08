@@ -11,7 +11,7 @@ coverY: 0
 
 [Bitcoin Bootcamp](<../.gitbook/assets/mastering bitcoin>)
 
-Intermediate
+**Intermediate**
 
 El curso de Bitcoin está basado en el contenido del libro Mastering Bitcoin, de Andreas M. Antonopoulos, que se puede encontrar en GitHub y del curso Learning Bitcoin From the Command Line. Hemos añadido materiales externos como artículos, podcasts, etc., para profundizar en los temas de cada capítulo. Por si fuera poco, elaboramos materiales propios, talleres prácticos, video-tutoriales y horas de mentoría, para llevar tu aprendizaje de los temas más complejos al siguiente nivel. Las primeras 4 clases son abiertas a todo el público y gratuitas, agrupadas en un programa llamado Bitcoin 101, para que puedas tener una primera aproximación a la metodología de aprendizaje y ver si te gusta.
 
@@ -19,7 +19,7 @@ El curso de Bitcoin está basado en el contenido del libro Mastering Bitcoin, de
 
 [Bitcoin 101](../.gitbook/assets/wallets)
 
-Principiante
+### **Principiante**
 
 Primeras cuatro clases del curso Mastering Bitcoin, las cuales son gratuitas y abiertas al público.
 
